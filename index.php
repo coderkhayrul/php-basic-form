@@ -8,6 +8,8 @@
     <title>PHP COURCES</title>
 </head>
 <body>
+
+ <!-- From Submition Start -->
 <form action="index.php" method="POST">
     <p>
 
@@ -50,6 +52,7 @@
     <input name="submit_btn" type="submit">
     </p>
 </form>
+ <!-- From Submition End -->
 
 <!-- PHP Code Start -->
 <?php
